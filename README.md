@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a CS Student in London exploring his options in the Tech Industry.<br>I’m currently working on a couple of simple web games to improve on my skills.
+A freshly graduated computer science student in London exploring his options in the Tech Industry.<br>I’m currently working on a few project to further improve on skills as well as learning to work with new languages/libraries which are more desirable for employers.
 
 
 ## 🌐 Socials:
